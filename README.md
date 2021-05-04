@@ -3,7 +3,10 @@
 
 - The libaries I use in this project
   1- pytube
+  pip3 install pytube3
+  
   2- os
+  this is already installed
  
 - The IDE I use in order to do this project: Pycharm
 
